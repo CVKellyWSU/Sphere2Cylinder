@@ -1,5 +1,5 @@
 # Sphere2Cylinder
-This is the model of a hemisphere being compressed while maintaining the same equatial circle.
+This is the model of a hemisphere being compressed while maintaining a constant volume and the same bottom surface, which is a circle. As the hemisphere is compressed to a shorter height, the surface smoothly better approximates a cylinder. If the starting cylinder height is r, then it has a volume = V = 2/3 * pi * r^3. The final cylinder volume is the same V = h * pi * r^2, with the final height = h = 2/3 * r.
 
 The 3D shape is modeled as a squircle (https://en.wikipedia.org/wiki/Squircle) rotated around the z-axis. This model will be used in our upcoming publication. Please cite our publication if you found it useful for your publications.
 
