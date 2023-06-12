@@ -5,7 +5,8 @@ The 3D shape is modeled as a squircle (https://en.wikipedia.org/wiki/Squircle) r
 
 "Methods for making and observing model lipid droplets."
 Sonali Gandhi1, Shahnaz Parveen1, Munirah AlDuhailan1, Ramesh Tripathi1,
-Nasser Junedi1, Mohammad Saqallah1, Matthew A. Sanders2, Peter M. Hoffmann3, Katherine Truex4, James G. Granneman3,5, Christopher V Kelly1,5,*
+Nasser Junedi1, Mohammad Saqallah1, Matthew A. Sanders2, Peter M. Hoffmann3, 
+Katherine Truex4, James G. Granneman3,5, Christopher V Kelly1,5,*
 
 1 Department of Physics and Astronomy, Wayne State University, Detroit, MI, USA 48201
 2 Center for Molecular Medicine and Genetics, School of Medicine, Wayne State University, Detroit, MI, USA 40201
