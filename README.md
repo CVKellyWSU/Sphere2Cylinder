@@ -4,7 +4,7 @@ This is the model of a hemisphere being compressed while maintaining a constant 
 The 3D shape is modeled as a squircle (https://en.wikipedia.org/wiki/Squircle) rotated around the z-axis. This model will be used in our upcoming publication. Please cite our publication if you found it useful for your publications.
 
 "Methods for making and observing model lipid droplets."
-Sonali Gandhi1, Shahnaz Parveen1, Munirah AlDuhailan1, Ramesh Tripathi1,
+Sonali Gandhi1, Shahnaz Parveen1, Munirah AlDuhailan1, Ramesh Tripathi1, 
 Nasser Junedi1, Mohammad Saqallah1, Matthew A. Sanders2, Peter M. Hoffmann3, 
 Katherine Truex4, James G. Granneman3,5, Christopher V Kelly1,5,*
 
